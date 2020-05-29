@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.ebf93bad.chunk.css",
-    "main.js": "/static/js/main.6411dbf4.chunk.js",
-    "main.js.map": "/static/js/main.6411dbf4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1c9aee1d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1c9aee1d.js.map",
-    "static/js/2.fdc40c81.chunk.js": "/static/js/2.fdc40c81.chunk.js",
-    "static/js/2.fdc40c81.chunk.js.map": "/static/js/2.fdc40c81.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3cb798be03bf0ea05bb641f2e822bb06.js": "/precache-manifest.3cb798be03bf0ea05bb641f2e822bb06.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ebf93bad.chunk.css.map": "/static/css/main.ebf93bad.chunk.css.map",
-    "static/js/2.fdc40c81.chunk.js.LICENSE.txt": "/static/js/2.fdc40c81.chunk.js.LICENSE.txt",
-    "static/media/flier_20200604.jpg": "/static/media/flier_20200604.e918bf85.jpg",
-    "static/media/logo500.png": "/static/media/logo500.76f18eb6.png"
+    "main.css": "/QUE/static/css/main.1c749821.chunk.css",
+    "main.js": "/QUE/static/js/main.527f9e09.chunk.js",
+    "main.js.map": "/QUE/static/js/main.527f9e09.chunk.js.map",
+    "runtime-main.js": "/QUE/static/js/runtime-main.b8c31479.js",
+    "runtime-main.js.map": "/QUE/static/js/runtime-main.b8c31479.js.map",
+    "static/js/2.15ff80a8.chunk.js": "/QUE/static/js/2.15ff80a8.chunk.js",
+    "static/js/2.15ff80a8.chunk.js.map": "/QUE/static/js/2.15ff80a8.chunk.js.map",
+    "index.html": "/QUE/index.html",
+    "precache-manifest.1c4020b034d4a5876e1b98a72cbd77fb.js": "/QUE/precache-manifest.1c4020b034d4a5876e1b98a72cbd77fb.js",
+    "service-worker.js": "/QUE/service-worker.js",
+    "static/css/main.1c749821.chunk.css.map": "/QUE/static/css/main.1c749821.chunk.css.map",
+    "static/js/2.15ff80a8.chunk.js.LICENSE.txt": "/QUE/static/js/2.15ff80a8.chunk.js.LICENSE.txt",
+    "static/media/flier_20200604.jpg": "/QUE/static/media/flier_20200604.e918bf85.jpg",
+    "static/media/logo500.png": "/QUE/static/media/logo500.76f18eb6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c9aee1d.js",
-    "static/js/2.fdc40c81.chunk.js",
-    "static/css/main.ebf93bad.chunk.css",
-    "static/js/main.6411dbf4.chunk.js"
+    "static/js/runtime-main.b8c31479.js",
+    "static/js/2.15ff80a8.chunk.js",
+    "static/css/main.1c749821.chunk.css",
+    "static/js/main.527f9e09.chunk.js"
   ]
 }
