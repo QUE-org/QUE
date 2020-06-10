@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/QUE/static/css/main.84391a01.chunk.css",
-    "main.js": "/QUE/static/js/main.9e9645f0.chunk.js",
-    "main.js.map": "/QUE/static/js/main.9e9645f0.chunk.js.map",
+    "main.js": "/QUE/static/js/main.f92ef836.chunk.js",
+    "main.js.map": "/QUE/static/js/main.f92ef836.chunk.js.map",
     "runtime-main.js": "/QUE/static/js/runtime-main.b8c31479.js",
     "runtime-main.js.map": "/QUE/static/js/runtime-main.b8c31479.js.map",
     "static/js/2.18945bc0.chunk.js": "/QUE/static/js/2.18945bc0.chunk.js",
     "static/js/2.18945bc0.chunk.js.map": "/QUE/static/js/2.18945bc0.chunk.js.map",
     "index.html": "/QUE/index.html",
-    "precache-manifest.0d412f812aff6e14121405e53d8d8763.js": "/QUE/precache-manifest.0d412f812aff6e14121405e53d8d8763.js",
+    "precache-manifest.7738ad157c584b8018ff240649378df9.js": "/QUE/precache-manifest.7738ad157c584b8018ff240649378df9.js",
     "service-worker.js": "/QUE/service-worker.js",
     "static/css/main.84391a01.chunk.css.map": "/QUE/static/css/main.84391a01.chunk.css.map",
     "static/js/2.18945bc0.chunk.js.LICENSE.txt": "/QUE/static/js/2.18945bc0.chunk.js.LICENSE.txt",
-    "static/media/flier_20200604.jpg": "/QUE/static/media/flier_20200604.9a439650.jpg",
+    "static/media/flier20200614.jpg": "/QUE/static/media/flier20200614.9b3eef9c.jpg",
     "static/media/logo500.png": "/QUE/static/media/logo500.76f18eb6.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b8c31479.js",
     "static/js/2.18945bc0.chunk.js",
     "static/css/main.84391a01.chunk.css",
-    "static/js/main.9e9645f0.chunk.js"
+    "static/js/main.f92ef836.chunk.js"
   ]
 }
